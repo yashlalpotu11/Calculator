@@ -2,7 +2,7 @@
 
 ### LINK: https://yashcalci.netlify.app/ 
 
-![Preview](img1.png)
+<!-- ![Preview](img1.png) -->
 
 ![Preview](img2.png)
 ![Preview](img3.png)
