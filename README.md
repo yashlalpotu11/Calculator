@@ -2,9 +2,9 @@
 
 ### LINK: https://yashcalci.netlify.app/ 
 
-![Preview](img1.png?raw=true)
+![Preview](img1.png)
 
-![Preview](img2.png?raw=true)
+![Preview](img2.png)
 
 ## Author
 
